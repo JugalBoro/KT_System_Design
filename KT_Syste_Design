@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T18:36:18.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.0.8" etag="HUR0cBdHzu5_HXMIhbNE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T19:07:04.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PejsV40XIVWBGZ1lIfts" version="22.0.8" type="github">
   <diagram name="Page-1" id="gv9ChofHhYT5QcbDtiWq">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TlRk4pn59-JfTUy1Dd3Y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TlRk4pn59-JfTUy1Dd3Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlRk4pn59-JfTUy1Dd3Y-1" value="Patient Database&lt;br&gt;---------------------------------&lt;br&gt;Patient ID&lt;br&gt;Patient Name&lt;br&gt;Patient Contact Details" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TlRk4pn59-JfTUy1Dd3Y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TlRk4pn59-JfTUy1Dd3Y-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlRk4pn59-JfTUy1Dd3Y-2" value="Doctor Database&lt;br&gt;------------------------------&lt;br&gt;Doctor ID&lt;br&gt;Doctor Name&lt;br&gt;Doctor Contact Details" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TlRk4pn59-JfTUy1Dd3Y-6" value="Apointment Database&lt;br&gt;--------------------------------------&lt;br&gt;Appointment ID&lt;br&gt;Patient ID&lt;br&gt;Doctor ID&lt;br&gt;Time Slot" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TlRk4pn59-JfTUy1Dd3Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TlRk4pn59-JfTUy1Dd3Y-8" target="TlRk4pn59-JfTUy1Dd3Y-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlRk4pn59-JfTUy1Dd3Y-8" value="Clinic Database&lt;br&gt;------------------------&lt;br&gt;Clinic ID&lt;br&gt;Clinic Name" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TlRk4pn59-JfTUy1Dd3Y-10" value="Time Slot&lt;br&gt;---------------------------------&lt;br&gt;Time Slot ID&lt;br&gt;Start Time&amp;nbsp;&lt;br&gt;End Time&lt;br&gt;Availability" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="515" y="560" width="170" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
