@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T17:18:08.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="VQi1QNZfakQGLTySji3y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T18:42:32.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jMi5oohf00XwDzv9mJz1" version="22.1.4" type="github">
   <diagram name="Page-1" id="SXacu4u6v1me2WNFEtSp">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-1" value="Go to https://metamask.io/download/&amp;nbsp;&amp;nbsp;&lt;br&gt;and install required version you&amp;nbsp;&lt;br&gt;want(Chrome, Edge, Firefox)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="360" as="targetPoint" />
+            <mxPoint x="109.5" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="35YhAMIqI3S9Z7h66Gyp-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-3" value="Add MATIC to Metamask&lt;br&gt;Wallet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="35YhAMIqI3S9Z7h66Gyp-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-6" value="Go to https://quickswap.exchange/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35YhAMIqI3S9Z7h66Gyp-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-8" value="Connect Your Metamask in QuickSwap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="180" width="157.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35YhAMIqI3S9Z7h66Gyp-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-10" value="Select TLT in QuickSwap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35YhAMIqI3S9Z7h66Gyp-12" target="35YhAMIqI3S9Z7h66Gyp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-12" value="Swap With MATIC&amp;nbsp;&lt;br&gt;in QuickSwap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35YhAMIqI3S9Z7h66Gyp-14" target="35YhAMIqI3S9Z7h66Gyp-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-14" value="Transfer to Binance Wallet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35YhAMIqI3S9Z7h66Gyp-16" value="Withdraw TLT to&lt;br&gt;&amp;nbsp;INR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
