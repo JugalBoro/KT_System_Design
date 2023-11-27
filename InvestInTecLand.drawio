@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T16:53:11.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VMXQRqVYwxeVSXweUp1X" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T17:03:00.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YG-WlW6IESjzscrkGHu0" version="22.1.4" type="github">
   <diagram name="Page-1" id="9-XwCcJ5g4GOZpc_9QRX">
     <mxGraphModel dx="1290" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,13 +28,30 @@
         <mxCell id="tBPPwoxHGF7oO__RBvw_-6" value="Invest in Land Packages for&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBPPwoxHGF7oO__RBvw_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBPPwoxHGF7oO__RBvw_-8">
+        <mxCell id="tBPPwoxHGF7oO__RBvw_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tBPPwoxHGF7oO__RBvw_-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="70" as="targetPoint" />
+            <mxPoint x="770" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tBPPwoxHGF7oO__RBvw_-8" value="Daily Profit will be add in your wallet everyday" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBPPwoxHGF7oO__RBvw_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBPPwoxHGF7oO__RBvw_-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="681" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBPPwoxHGF7oO__RBvw_-15" value="withdraw once the invested period is over" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBPPwoxHGF7oO__RBvw_-16" value="Connect With Blockchain and&amp;nbsp;withdraw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="230" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
