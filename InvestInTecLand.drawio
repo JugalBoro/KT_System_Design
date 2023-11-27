@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T17:08:35.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3r6_oCe6Parj_-cRdmxi" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T17:15:55.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FiQmeeishQSk3-A7RUAf" version="22.1.4" type="github">
   <diagram name="Page-1" id="9-XwCcJ5g4GOZpc_9QRX">
     <mxGraphModel dx="1290" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="tBPPwoxHGF7oO__RBvw_-15" value="withdraw once the investing period is over" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tBPPwoxHGF7oO__RBvw_-16" value="Connect With Blockchain and&amp;nbsp;withdraw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tBPPwoxHGF7oO__RBvw_-16" value="once the investing period is over ,Connect With Blockchain and Withdraw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="230" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
